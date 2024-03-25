@@ -1,0 +1,1 @@
+This is my first time making the rock paper scissors game. I am doing this now as part of The Odin Project's curriculum.
